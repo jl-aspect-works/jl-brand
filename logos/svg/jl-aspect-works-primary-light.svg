@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
+<rect width="1500" height="420" fill="#ffffff"/>
+<rect x="70" y="60" width="300" height="300" rx="58.0" fill="#ffffff"/>
+<rect x="74.0" y="64.0" width="292.0" height="292.0" rx="54.0" fill="none" stroke="#111111" stroke-width="4.0"/>
+<text x="220.0" y="188.0" text-anchor="middle" fill="#111111" font-family="Clear Sans, Arial, sans-serif" font-size="112.0" font-weight="700" letter-spacing="-8">JL</text>
+<line x1="75.0" y1="265.0" x2="365.0" y2="265.0" stroke="#111111" stroke-width="2.5"/>
+<path d="M 0,0 L 20,0 L 28,-4 L 34,6 L 40,-10 L 46,13 L 52,-18 L 58,22 L 64,-31 L 70,40 L 76,-55 L 82,68 L 88,-46 L 94,34 L 100,-27 L 106,20 L 112,-15 L 118,10 L 124,-7 L 132,0 L 155,0" transform="translate(142.0,265.0) scale(1.0,1.0)" fill="none" stroke="#111111" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="430" y="170" fill="#111111" font-family="Clear Sans, Arial, sans-serif" font-size="71.76" font-weight="700" letter-spacing="4.6000000000000005">JL</text>
+<text x="545.0" y="170" fill="#111111" font-family="Clear Sans, Arial, sans-serif" font-size="71.76" font-weight="700" letter-spacing="7.36">ASPECT</text>
+<text x="1005.0" y="170" fill="#333333" font-family="Clear Sans Light, Clear Sans, Arial, sans-serif" font-size="66.24000000000001" font-weight="300" letter-spacing="15.64">WORKS</text>
+<line x1="430" y1="233.48000000000002" x2="526.6" y2="233.48000000000002" stroke="#333333" stroke-width="1.84"/>
+<text x="554.2" y="239.92000000000002" fill="#333333" font-family="Clear Sans, Arial, sans-serif" font-size="20.240000000000002" font-weight="400" letter-spacing="3.68">PRACTICAL TOOLS FOR MODERN MIXING ENGINEERS</text>
+<line x1="1207.4" y1="233.48000000000002" x2="1322.4" y2="233.48000000000002" stroke="#333333" stroke-width="1.84"/>
+</svg>

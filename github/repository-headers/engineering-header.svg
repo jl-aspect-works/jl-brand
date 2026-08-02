@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+<rect width="1280" height="320" fill="#07090b"/>
+<rect x="55" y="35" width="250" height="250" rx="48.333333333333336" fill="#111418"/>
+<rect x="58.333333333333336" y="38.333333333333336" width="243.33333333333334" height="243.33333333333334" rx="45.0" fill="none" stroke="#b8b9bb" stroke-width="3.3333333333333335"/>
+<text x="180.0" y="141.66666666666669" text-anchor="middle" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="93.33333333333334" font-weight="700" letter-spacing="-8">JL</text>
+<line x1="59.166666666666664" y1="205.83333333333334" x2="300.83333333333337" y2="205.83333333333334" stroke="#b8b9bb" stroke-width="2.0833333333333335"/>
+<path d="M 0,0 L 20,0 L 28,-4 L 34,6 L 40,-10 L 46,13 L 52,-18 L 58,22 L 64,-31 L 70,40 L 76,-55 L 82,68 L 88,-46 L 94,34 L 100,-27 L 106,20 L 112,-15 L 118,10 L 124,-7 L 132,0 L 155,0" transform="translate(115.0,205.83333333333334) scale(0.8333333333333334,0.8333333333333334)" fill="none" stroke="#f4f4f4" stroke-width="2.666666666666667" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="360" y="145" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="4">JL ASPECT WORKS</text>
+<text x="360" y="205" fill="#8a8c90" font-family="Clear Sans, Arial, sans-serif" font-size="28">Engineering better studio workflows.</text>
+
+</svg>

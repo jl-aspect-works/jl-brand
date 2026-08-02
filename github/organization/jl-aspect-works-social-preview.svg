@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#07090b"/>
+<rect x="100" y="150" width="340" height="340" rx="65.73333333333333" fill="#111418"/>
+<rect x="104.53333333333333" y="154.53333333333333" width="330.93333333333334" height="330.93333333333334" rx="61.199999999999996" fill="none" stroke="#b8b9bb" stroke-width="4.533333333333333"/>
+<text x="270.0" y="295.06666666666666" text-anchor="middle" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="126.93333333333334" font-weight="700" letter-spacing="-8">JL</text>
+<line x1="105.66666666666667" y1="382.3333333333333" x2="434.3333333333333" y2="382.3333333333333" stroke="#b8b9bb" stroke-width="2.833333333333333"/>
+<path d="M 0,0 L 20,0 L 28,-4 L 34,6 L 40,-10 L 46,13 L 52,-18 L 58,22 L 64,-31 L 70,40 L 76,-55 L 82,68 L 88,-46 L 94,34 L 100,-27 L 106,20 L 112,-15 L 118,10 L 124,-7 L 132,0 L 155,0" transform="translate(181.6,382.3333333333333) scale(1.1333333333333333,1.1333333333333333)" fill="none" stroke="#f4f4f4" stroke-width="3.626666666666667" stroke-linecap="round" stroke-linejoin="round"/><text x="500" y="300" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="56.94" font-weight="700" letter-spacing="3.65">JL</text>
+<text x="591.25" y="300" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="56.94" font-weight="700" letter-spacing="5.84">ASPECT</text>
+<text x="956.25" y="300" fill="#b8b9bb" font-family="Clear Sans Light, Clear Sans, Arial, sans-serif" font-size="52.56" font-weight="300" letter-spacing="12.41">WORKS</text>
+<line x1="500" y1="350.37" x2="576.65" y2="350.37" stroke="#b8b9bb" stroke-width="1.46"/>
+<text x="598.55" y="355.48" fill="#b8b9bb" font-family="Clear Sans, Arial, sans-serif" font-size="16.06" font-weight="400" letter-spacing="2.92">PRACTICAL TOOLS FOR MODERN MIXING ENGINEERS</text>
+<line x1="1116.85" y1="350.37" x2="1208.1" y2="350.37" stroke="#b8b9bb" stroke-width="1.46"/>
+</svg>

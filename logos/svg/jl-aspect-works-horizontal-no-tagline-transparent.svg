@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
+
+<rect x="73.46666666666667" y="53.46666666666667" width="253.06666666666666" height="253.06666666666666" rx="46.800000000000004" fill="none" stroke="#b8b9bb" stroke-width="3.466666666666667"/>
+<text x="200.0" y="160.93333333333334" text-anchor="middle" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="97.06666666666666" font-weight="700" letter-spacing="-8">JL</text>
+<line x1="74.33333333333333" y1="227.66666666666669" x2="325.6666666666667" y2="227.66666666666669" stroke="#b8b9bb" stroke-width="2.166666666666667"/>
+<path d="M 0,0 L 20,0 L 28,-4 L 34,6 L 40,-10 L 46,13 L 52,-18 L 58,22 L 64,-31 L 70,40 L 76,-55 L 82,68 L 88,-46 L 94,34 L 100,-27 L 106,20 L 112,-15 L 118,10 L 124,-7 L 132,0 L 155,0" transform="translate(132.4,227.66666666666669) scale(0.8666666666666667,0.8666666666666667)" fill="none" stroke="#f4f4f4" stroke-width="2.7733333333333334" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="390" y="185" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="63.959999999999994" font-weight="700" letter-spacing="4.1">JL</text>
+<text x="492.5" y="185" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="63.959999999999994" font-weight="700" letter-spacing="6.56">ASPECT</text>
+<text x="902.5" y="185" fill="#b8b9bb" font-family="Clear Sans Light, Clear Sans, Arial, sans-serif" font-size="59.04" font-weight="300" letter-spacing="13.94">WORKS</text>
+</svg>

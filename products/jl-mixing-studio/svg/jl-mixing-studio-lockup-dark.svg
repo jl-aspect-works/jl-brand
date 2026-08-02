@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" fill="#07090b"/>
+<rect x="45" y="40" width="220" height="220" rx="42.53333333333333" fill="#111418"/>
+<rect x="47.93333333333333" y="42.93333333333333" width="214.13333333333333" height="214.13333333333333" rx="39.599999999999994" fill="none" stroke="#b8b9bb" stroke-width="2.933333333333333"/>
+<text x="155.0" y="133.86666666666667" text-anchor="middle" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="82.13333333333333" font-weight="700" letter-spacing="-8">JL</text>
+<line x1="48.666666666666664" y1="190.33333333333331" x2="261.3333333333333" y2="190.33333333333331" stroke="#b8b9bb" stroke-width="1.8333333333333333"/>
+<path d="M 0,0 L 20,0 L 28,-4 L 34,6 L 40,-10 L 46,13 L 52,-18 L 58,22 L 64,-31 L 70,40 L 76,-55 L 82,68 L 88,-46 L 94,34 L 100,-27 L 106,20 L 112,-15 L 118,10 L 124,-7 L 132,0 L 155,0" transform="translate(97.8,190.33333333333331) scale(0.7333333333333333,0.7333333333333333)" fill="none" stroke="#f4f4f4" stroke-width="2.3466666666666667" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320" y="115" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="4">JL MIXING</text>
+<text x="320" y="185" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="5">STUDIO</text>
+<text x="320" y="235" fill="#8a8c90" font-family="Clear Sans, Arial, sans-serif" font-size="27" font-weight="400">by JL Aspect Works</text>
+
+</svg>

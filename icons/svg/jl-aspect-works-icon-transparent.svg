@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+
+<rect x="74.0" y="74.0" width="876.0" height="876.0" rx="162.0" fill="none" stroke="#b8b9bb" stroke-width="12.0"/>
+<text x="512.0" y="446.0" text-anchor="middle" fill="#f4f4f4" font-family="Clear Sans, Arial, sans-serif" font-size="336.0" font-weight="700" letter-spacing="-8">JL</text>
+<line x1="77.0" y1="677.0" x2="947.0" y2="677.0" stroke="#b8b9bb" stroke-width="7.5"/>
+<path d="M 0,0 L 20,0 L 28,-4 L 34,6 L 40,-10 L 46,13 L 52,-18 L 58,22 L 64,-31 L 70,40 L 76,-55 L 82,68 L 88,-46 L 94,34 L 100,-27 L 106,20 L 112,-15 L 118,10 L 124,-7 L 132,0 L 155,0" transform="translate(278.0,677.0) scale(3.0,3.0)" fill="none" stroke="#f4f4f4" stroke-width="9.600000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
