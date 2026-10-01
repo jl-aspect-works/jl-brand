@@ -1,6 +1,6 @@
 # JL Aspect Works Brand Identity
 
-Production vector-based brand package for **JL Aspect Works**.
+PNG brand graphics for **JL Aspect Works**.
 
 ## Locked identity
 
@@ -12,10 +12,15 @@ Production vector-based brand package for **JL Aspect Works**.
 
 ## Contents
 
-- SVG and PNG corporate logos
-- Multi-size corporate icon exports
-- JL Mixing Studio and JL Mixing Automation lockups
-- GitHub organization and repository graphics
-- Brand guide and asset inventory
+- Company logo PNGs (`company-logo-light.png` and the existing `compay-logo-dark.png` filename)
+- Dark/light icon PNGs and exports
+- JL Mixing Studio and JL Mixing Automation product PNGs
+- Listening cover PNG
 
-All assets include deliberate safe margins and are exported from SVG masters.
+SVG masters and a brand guide are not currently committed here. The existing dark-logo filename is preserved for consumers.
+
+## Validation and governance
+
+The [repository checks](.github/workflows/repository-checks.yml) validate PNG/SVG integrity, local Markdown links, and immutable Action references on every pull request and main push. They do not review visual design or grant asset usage rights. Changes use focused branches and PRs under the [standing development agreement](https://github.com/jl-aspect-works/engineering/blob/main/docs/DEVELOPMENT_AGREEMENT.md).
+
+The branch-protection verification record and proposed ruleset are maintained in [Engineering governance](https://github.com/jl-aspect-works/engineering/blob/main/docs/GITHUB_GOVERNANCE.md).
